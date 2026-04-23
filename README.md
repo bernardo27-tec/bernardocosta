@@ -1,32 +1,68 @@
-# 👋 Olá, eu sou o Bernardo Costa
 
-🎓 Estudante de Ciência de Dados e Inteligência Artificial
-📊 Focado em análise de dados e desenvolvimento na área de dados
 
----
 
-## 🚀 Sobre mim
+### 🤖 Linguagens e Tecnologias
 
-Tenho interesse em transformar dados em informação útil, explorando técnicas de análise e programação para resolver problemas e gerar insights.
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+ <img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
----
+<br/>
+<br/>
 
-## 🛠️Estou aprendendo(atualmente)
+### 📊 Estatísticas
 
-* Java
-* Python
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="" 
+  />
 
----
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="" 
+  />
 
-## 🎯 Objetivos
-
-Atuar na área de dados, desenvolvendo habilidades em análise, programação e soluções baseadas em dados.
-
----
-
-## 📫 Contato
-
-* LinkedIn: www.linkedin.com/in/bernardo-cassiano-54558037b
-
----
-# bernardocosta
+</p>
