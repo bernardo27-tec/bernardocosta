@@ -1,5 +1,12 @@
 
+👋 Olá, eu sou o Bernardo
 
+🎓 Estudante de Ciência de Dados e Inteligência Artificial
+📊 Focado em análise de dados e desenvolvimento na área de dados
+
+Sou estudante de Ciência de Dados e Inteligência Artificial, com interesse em explorar como os dados podem ser utilizados para gerar valor e apoiar a tomada de decisão. Tenho foco no desenvolvimento de habilidades em programação e análise, buscando constantemente evoluir meu conhecimento na área de dados e entender como aplicar conceitos teóricos em situações práticas.
+
+Conhecimento em java, python, html5, css, javascripts, SQL,(entre outros).
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -55,14 +62,14 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="" 
+    src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardo27-tec&show_icons=true)" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="" 
+      src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)" 
   />
 
 </p>
